@@ -1,2 +1,2 @@
 # myFirstRLExercise
-dummy code
+Practicing reinforcement learning. 
